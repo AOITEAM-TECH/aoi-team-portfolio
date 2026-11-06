@@ -52,7 +52,7 @@ const TEAM_MEMBERS = [
     id: "saravanan-s",
     name: "Saravanan S",
     username: "saravanan.s",
-    password: "SMTaoi@05",
+    password: "11022005",
     role: "AOI Stage 1 Inspector",
     initials: "SS",
     accent: "#c6813f",
